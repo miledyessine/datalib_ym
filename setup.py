@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="datalib_ym",
-    version="1.0.0",
+    version="1.0.1",
     author="Yessine Miled",
     author_email="miled.yassine7@gmail.com",
     description="A comprehensive library for data manipulation, analysis, and visualization",
